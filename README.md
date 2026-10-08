@@ -3,8 +3,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Anuj%20Mandal&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Data%20Analyst&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://github.com/anujmandal909090">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C9CF0&center=true&vCenter=true&width=620&lines=Python+%7C+SQL+%7C+Power+BI;Turning+raw+data+into+business+insights;B.Com+(P)+Student+%7C+Data+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1300&color=2C9CF0&center=true&vCenter=true&repeat=true&width=650&height=45&lines=Visuals+are+art+painted+with+data;HTML+is+the+brick+of+the+web;A+machine+is+incomplete+without+learning" alt="Typing SVG" />
 </a>
+
+<br>
+
+![Followers](https://img.shields.io/github/followers/anujmandal909090?style=flat&logo=github&color=2c5364)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anujmandal909090&label=Profile%20Views&color=0e75b6&style=flat)
 ![Followers](https://img.shields.io/github/followers/anujmandal909090?style=flat&logo=github&color=2c5364)
