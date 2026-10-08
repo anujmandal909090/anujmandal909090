@@ -8,12 +8,6 @@
 
 <br>
 
-![Followers](https://img.shields.io/github/followers/anujmandal909090?style=flat&logo=github&color=2c5364)
-
-<br>
-
-![Followers](https://img.shields.io/github/followers/anujmandal909090?style=flat&logo=github&color=2c5364)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=anujmandal909090&label=Profile%20Views&color=0e75b6&style=flat)
 ![Followers](https://img.shields.io/github/followers/anujmandal909090?style=flat&logo=github&color=2c5364)
 
@@ -72,6 +66,7 @@
 | 🚗 [**BMW Sales Dashboard**](https://github.com/anujmandal909090/BMW-Sales-PowerBI-Dashboard) | Interactive dashboard for sales, demographics and pricing | Power BI |
 | 🗄️ [**SQL Exploratory Data Analysis**](https://github.com/anujmandal909090/Exploratory-Data-Analysis-Using-SQL) | Customer, order and product trends using SQL | SQL |
 
+---
 
 ## 🌱 Currently Learning
 
@@ -88,8 +83,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-mandal-627a94380/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anujmandal707070@gmail.com)
 
-*⭐ If you like my work, consider starring the repositories!*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
-
-</div>
+*⭐ If
