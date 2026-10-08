@@ -64,31 +64,6 @@
 | 🚗 [**BMW Sales Dashboard**](https://github.com/anujmandal909090/BMW-Sales-PowerBI-Dashboard) | Interactive dashboard for sales, demographics and pricing | Power BI |
 | 🗄️ [**SQL Exploratory Data Analysis**](https://github.com/anujmandal909090/Exploratory-Data-Analysis-Using-SQL) | Customer, order and product trends using SQL | SQL |
 
----
-
-## 🔄 My Analysis Workflow
-
-| Step | What I do |
-|:---:|---|
-| 1️⃣ **Understand** | Define the business problem and key questions |
-| 2️⃣ **Clean** | Handle missing values, duplicates and data types (Pandas / SQL) |
-| 3️⃣ **Explore** | EDA to find patterns, trends and outliers |
-| 4️⃣ **Visualise** | Charts and interactive dashboards (Matplotlib, Seaborn, Power BI) |
-| 5️⃣ **Insight** | Convert findings into clear business recommendations |
-
----
-
-## 📊 Skill Level
-
-| Skill | Level |
-|---|---|
-| Python | ![](https://img.shields.io/badge/-Intermediate-2C9CF0?style=flat-square) |
-| SQL | ![](https://img.shields.io/badge/-Intermediate-2C9CF0?style=flat-square) |
-| Power BI | ![](https://img.shields.io/badge/-Intermediate-2C9CF0?style=flat-square) |
-| HTML & CSS | ![](https://img.shields.io/badge/-Beginner-4CAF50?style=flat-square) |
-| Machine Learning | ![](https://img.shields.io/badge/-Basics-FF9800?style=flat-square) |
-
----
 
 ## 🌱 Currently Learning
 
